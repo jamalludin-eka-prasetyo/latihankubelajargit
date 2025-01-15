@@ -6,11 +6,12 @@
    <UUID>70ff5705-99ca-4740-bf5b-0664e5882f5c</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.0.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.0.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/home/jamals/Downloads/Sharing File/Belajar Git/latihankubelajargit/Katalon Learn - Cura Web Project/Katalon Learn - Cura Web Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

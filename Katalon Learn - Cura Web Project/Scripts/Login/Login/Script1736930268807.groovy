@@ -29,11 +29,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'))
-
-WebUI.closeBrowser()
-

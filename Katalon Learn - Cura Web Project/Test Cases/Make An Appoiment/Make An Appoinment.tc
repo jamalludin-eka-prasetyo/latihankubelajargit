@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make An Appoinment with Reuse Login Test Case</description>
+   <name>Make An Appoinment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d74bf9e-ade4-418d-a4cc-17b4cd706bb4</testCaseGuid>
+</TestCaseEntity>
