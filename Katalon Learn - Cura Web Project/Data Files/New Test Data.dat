@@ -11,15 +11,17 @@
    <driver>InternalData</driver>
    <data>jama ludin</data>
    <data>John+Doe ThisIsNotAPassword</data>
+   <data>adsasdasd 123123123</data>
+   <data>dasdasdasd 12312313123</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>username</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>password</name>
-      <size>2</size>
+      <size>4</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

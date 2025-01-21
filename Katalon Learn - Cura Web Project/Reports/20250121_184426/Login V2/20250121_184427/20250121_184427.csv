@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login V2,Chrome 132.0.0.0,,,21-01-2025 18:44:34,21-01-2025 18:45:44,1m - 9.910s,PASSED
+,,,,,,,
+Test Cases/Login/Login V2,Chrome 132.0.0.0,,,21-01-2025 18:44:35,21-01-2025 18:45:00,24.983s,PASSED
+"testdata = findTestData(""Data Files/Test Data Login V2"")",Chrome 132.0.0.0,,,21-01-2025 18:44:35,21-01-2025 18:44:36,0.582s,PASSED
+"for ([i = 1, i <= testdata.getRowNumbers(), (i++)])",Chrome 132.0.0.0,,,21-01-2025 18:44:36,21-01-2025 18:45:00,23.789s,PASSED
+,,,,,,,
+Test Cases/Login/Login V2,Chrome 132.0.0.0,,,21-01-2025 18:45:00,21-01-2025 18:45:21,21.236s,PASSED
+"testdata = findTestData(""Data Files/Test Data Login V2"")",Chrome 132.0.0.0,,,21-01-2025 18:45:00,21-01-2025 18:45:00,0.048s,PASSED
+"for ([i = 1, i <= testdata.getRowNumbers(), (i++)])",Chrome 132.0.0.0,,,21-01-2025 18:45:00,21-01-2025 18:45:21,21.156s,PASSED
+,,,,,,,
+Test Cases/Login/Login V2,Chrome 132.0.0.0,,,21-01-2025 18:45:21,21-01-2025 18:45:44,23.413s,PASSED
+"testdata = findTestData(""Data Files/Test Data Login V2"")",Chrome 132.0.0.0,,,21-01-2025 18:45:21,21-01-2025 18:45:21,0.028s,PASSED
+"for ([i = 1, i <= testdata.getRowNumbers(), (i++)])",Chrome 132.0.0.0,,,21-01-2025 18:45:21,21-01-2025 18:45:44,23.345s,PASSED
