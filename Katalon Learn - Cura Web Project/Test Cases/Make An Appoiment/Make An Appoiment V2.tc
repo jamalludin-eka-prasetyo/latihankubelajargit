@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Make An Appoiment V2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ea18e72-5cd2-4acd-8cba-4c385823d8d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d34bd4f-2a71-47af-89f5-abc91bebea82</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7005e9a-3e0b-4651-9315-390967c2c81a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description>Make Default for Facility </description>
+      <id>9d34bd4f-2a71-47af-89f5-abc91bebea82</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'I Will go to Hongkong'</defaultValue>
+      <description>Make default for comment appoiment</description>
+      <id>e7005e9a-3e0b-4651-9315-390967c2c81a</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
