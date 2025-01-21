@@ -19,7 +19,7 @@
       <variableId>8143e311-9cbe-4600-8a2b-1745b69e0df4</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'John Doe'</defaultValue>
       <description></description>
       <id>07510951-f58b-4a84-b81b-30430792a387</id>
       <masked>false</masked>
