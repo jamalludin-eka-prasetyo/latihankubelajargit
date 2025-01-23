@@ -50,5 +50,11 @@
          <value>programKesehatan</value>
          <variableId>c88d109f-8bd8-4532-a7c2-089df260617d</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId>79f30473-93f9-43d3-a79f-402a76c5f602</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tanggal_visit</value>
+         <variableId>2fb07c1e-e91c-4fd6-86ed-125623a102a5</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

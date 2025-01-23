@@ -1,4 +1,4 @@
-facility,comment,checkBox,programKesehatan
-Tokyo CURA Healthcare Center,I Will Come to Tokyo Later,FALSE,Medicare
-Seoul CURA Healthcare Center,I Will Come to Seoul Later,TRUE,Medicaid
-Hongkong CURA Healthcare Center,I Will Come to Hongkong Later,FALSE,None
+facility,comment,checkBox,programKesehatan,tanggal_visit
+Tokyo CURA Healthcare Center,I Will Come to Tokyo Later,FALSE,Medicare,20/01/2025
+Seoul CURA Healthcare Center,I Will Come to Seoul Later,TRUE,Medicaid,22/01/2025
+Hongkong CURA Healthcare Center,I Will Come to Hongkong Later,FALSE,None,25/01/2025

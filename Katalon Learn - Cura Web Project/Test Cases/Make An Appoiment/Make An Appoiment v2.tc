@@ -30,6 +30,12 @@
       <value></value>
       <variableId>c88d109f-8bd8-4532-a7c2-089df260617d</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2fb07c1e-e91c-4fd6-86ed-125623a102a5</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
@@ -57,5 +63,12 @@
       <id>c88d109f-8bd8-4532-a7c2-089df260617d</id>
       <masked>false</masked>
       <name>programKesehatan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2fb07c1e-e91c-4fd6-86ed-125623a102a5</id>
+      <masked>false</masked>
+      <name>tanggal_visit</name>
    </variable>
 </TestCaseEntity>

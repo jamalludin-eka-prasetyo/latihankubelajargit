@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Visit Date (Required)_visit_date</name>
+   <name>I_Visit_Date</name>
    <tag></tag>
    <elementGuidId>c902886a-7289-471b-a81a-7f8eb32ed865</elementGuidId>
    <selectorCollection>
