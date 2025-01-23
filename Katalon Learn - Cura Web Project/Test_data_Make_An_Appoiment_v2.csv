@@ -1,0 +1,4 @@
+facility,comment,checkBox,programKesehatan
+Tokyo CURA Healthcare Center,I Will Come to Tokyo Later,FALSE,Medicare
+Seoul CURA Healthcare Center,I Will Come to Seoul Later,TRUE,Medicaid
+Hongkong CURA Healthcare Center,I Will Come to Hongkong Later,FALSE,None

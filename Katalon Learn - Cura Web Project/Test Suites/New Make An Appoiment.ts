@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>New Make An Appoiment</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0517f94b-9b6c-4daa-bf24-0241bdd7566e</testSuiteGuid>
+   <testCaseLink>
+      <guid>e34f253a-d48e-4059-8272-d58492148406</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Make An Appoiment/Make An Appoiment v2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>79f30473-93f9-43d3-a79f-402a76c5f602</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Make An Appoiment v2</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>79f30473-93f9-43d3-a79f-402a76c5f602</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>75fec6df-4cc4-43ef-bc16-11c275ff94ee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>79f30473-93f9-43d3-a79f-402a76c5f602</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>881f592e-7458-432b-8d5f-6ca841a04db3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>79f30473-93f9-43d3-a79f-402a76c5f602</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>checkBox</value>
+         <variableId>b1979be4-711c-4bdd-8498-4bce422c5d1e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>79f30473-93f9-43d3-a79f-402a76c5f602</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>programKesehatan</value>
+         <variableId>c88d109f-8bd8-4532-a7c2-089df260617d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

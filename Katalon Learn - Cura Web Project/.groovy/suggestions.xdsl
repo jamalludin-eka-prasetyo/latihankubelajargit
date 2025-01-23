@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectSuggestions>
+    <declaringtype type="java.lang.Class">
+        <method isActive="true" isStatic="false" name="comment" type="java.lang.Object">
+            <parameters useNamedArguments="false"/>
+            <doc/>
+        </method>
+    </declaringtype>
+</projectSuggestions>

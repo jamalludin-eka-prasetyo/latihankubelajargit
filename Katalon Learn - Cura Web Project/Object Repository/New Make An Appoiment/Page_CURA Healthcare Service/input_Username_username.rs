@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Apply for hospital readmission_hospit_63901f</name>
+   <name>input_Username_username</name>
    <tag></tag>
-   <elementGuidId>c30ab102-8e57-4454-8c5c-03e706ed69cd</elementGuidId>
+   <elementGuidId>4a6c1ff7-edc6-4c93-8e5b-299a5ebb8ad0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#chk_hospotal_readmission</value>
+         <key>XPATH</key>
+         <value>//input[@id='txt-username']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='chk_hospotal_readmission']</value>
+         <key>CSS</key>
+         <value>#txt-username</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ca672ac1-f82f-42e8-95f8-4774232030cb</webElementGuid>
+      <webElementGuid>5adc71c6-37df-4ea7-bb53-f4b22588f3dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>ee8f13df-3dbe-4800-841e-c1c531896b52</webElementGuid>
+      <value>text</value>
+      <webElementGuid>cde1dfa2-1eb8-48d1-9630-0915c42955bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>a2c93ae6-b20e-4af0-90e5-733e6b66ae81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>chk_hospotal_readmission</value>
-      <webElementGuid>aeaecbfa-2d4e-42d1-9fa6-b4fa1e90d3e5</webElementGuid>
+      <value>txt-username</value>
+      <webElementGuid>262df629-7c03-492c-af5c-15f2b6c95675</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>hospital_readmission</value>
-      <webElementGuid>c7c9d486-173f-482d-898d-8a2709007f5a</webElementGuid>
+      <value>username</value>
+      <webElementGuid>614e0202-7a34-419f-a4fc-da924dd45b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>ab5b59b7-850a-4337-9a9d-96ca73f9e320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>Yes</value>
-      <webElementGuid>397fad7b-48da-48b8-9914-cf034be89a74</webElementGuid>
+      <value>off</value>
+      <webElementGuid>6e4f2a01-e8d9-4b99-8e0c-867ba6ad803b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;chk_hospotal_readmission&quot;)</value>
-      <webElementGuid>bdb3b39e-1808-4c48-b5f0-912376fc4f4b</webElementGuid>
+      <value>id(&quot;txt-username&quot;)</value>
+      <webElementGuid>edb0e164-3061-4776-af8e-0b6ea2ff2496</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='chk_hospotal_readmission']</value>
-      <webElementGuid>6cc59a6f-044c-4116-8c32-1335228553ee</webElementGuid>
+      <value>//input[@id='txt-username']</value>
+      <webElementGuid>333b8630-2fea-4709-9204-c14e43d9cc92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='appointment']/div/div/form/div[2]/div/label/input</value>
-      <webElementGuid>28b25033-ca9e-4a43-90f7-9ed4e99fc3df</webElementGuid>
+      <value>//section[@id='login']/div/div/div[2]/form/div[2]/div/input</value>
+      <webElementGuid>f33253df-da41-4e11-ac26-4da2f91f6355</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>98955e85-4380-4e6b-8956-90e6cafcde9e</webElementGuid>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>13ce530f-7276-4d71-9731-cab2b7d36c4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @id = 'chk_hospotal_readmission' and @name = 'hospital_readmission']</value>
-      <webElementGuid>f38c0122-af05-4364-8810-caf26d4669ae</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'txt-username' and @name = 'username' and @placeholder = 'Username']</value>
+      <webElementGuid>ac2e06f3-02cb-4d04-b0f1-0eb48ed9a8d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

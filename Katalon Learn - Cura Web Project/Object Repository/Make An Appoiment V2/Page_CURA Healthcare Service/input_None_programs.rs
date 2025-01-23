@@ -10,6 +10,10 @@
          <value>//input[@id='radio_program_none']</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'radio' and @name = 'programs' and @id = 'radio_program_none']</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#radio_program_none</value>
       </entry>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b7d85d75-c7b9-4a30-8478-5911235d4e30</webElementGuid>
+      <webElementGuid>69c02d02-304f-4946-9eec-5fb9e9b1d2bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +35,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>ea4cffa7-c178-465a-9aac-45dcc36451ae</webElementGuid>
+      <webElementGuid>d2f61504-fe70-4c67-9724-be4b1919350d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>name</name>
       <type>Main</type>
       <value>programs</value>
-      <webElementGuid>5d938e34-9d42-486a-96ce-9f39241fdcc3</webElementGuid>
+      <webElementGuid>dd6ef898-db90-492a-b524-7fdcedebf47a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>id</name>
       <type>Main</type>
       <value>radio_program_none</value>
-      <webElementGuid>dd96d365-7fdf-4602-95bb-18f524a2d117</webElementGuid>
+      <webElementGuid>196ef7da-bc5a-4ce0-b3e3-a1cdb4b078e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>value</name>
       <type>Main</type>
       <value>None</value>
-      <webElementGuid>0e5af4fe-8e4c-4b2c-8b29-fd3a2e8c648d</webElementGuid>
+      <webElementGuid>05842d50-b176-42a0-88fb-88bfbc49a873</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radio_program_none&quot;)</value>
-      <webElementGuid>bb36d525-f292-47ed-a9e1-1e1c44992dd6</webElementGuid>
+      <webElementGuid>9e2fc78b-8827-4678-8f57-ccf3f6a11186</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='radio_program_none']</value>
-      <webElementGuid>d31e21f3-a2d2-41cf-8aba-ffa620d61208</webElementGuid>
+      <webElementGuid>8f4c8cc6-11f1-4d22-bcac-f3a24f5198b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[3]/div/label[3]/input</value>
-      <webElementGuid>bdb06ef6-160e-4073-9381-35a81a2aa9a7</webElementGuid>
+      <webElementGuid>339376dd-a5c0-4a48-b6ec-cd09068d8c21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[3]/input</value>
-      <webElementGuid>4d2636aa-50dd-437f-aeb2-69b3d91c6f61</webElementGuid>
+      <webElementGuid>3073e89f-5311-4bc0-afb4-9b7f8bbd887a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +99,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'programs' and @id = 'radio_program_none']</value>
-      <webElementGuid>e2b9af8f-7fd4-413a-8ea3-737646feeac1</webElementGuid>
+      <webElementGuid>eb458d5e-08a6-4a6c-ba65-698cfd4dc32f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
