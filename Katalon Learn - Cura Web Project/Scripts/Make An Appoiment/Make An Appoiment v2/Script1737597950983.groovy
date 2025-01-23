@@ -21,14 +21,18 @@ import internal.GlobalVariable as GlobalVariable
 TestData testdata = TestDataFactory.findTestData('Data Files/New Make An Appoiment v2')
 
 WebUI.callTestCase(findTestCase('Login/Login'), [:], FailureHandling.STOP_ON_FAILURE)
-for (int i = 1; i <= testdata.getRowNumbers(); i++) {
 
+for (int i = 1; i <= testdata.getRowNumbers(); i++) {
     String facility = testdata.getValue(1, i)
+
     String comment = testdata.getValue(2, i)
+
     Boolean checkBox = Boolean.parseBoolean(testdata.getValue(3, i))
+
     String programKesehatan = testdata.getValue(4, i)
-	String tanggal_visit = testdata.getValue(5, i)
-	
+
+    String tanggal_visit = testdata.getValue(5, i)
+
     WebUI.comment('Iteration ' + i)
 
     TestObject selectHealthcare = findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/select_Healthcare')
@@ -63,15 +67,11 @@ for (int i = 1; i <= testdata.getRowNumbers(); i++) {
     
     //WebUI.click(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
     //WebUI.click(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/input_Medicaid_programs'))
-	
-	WebUI.setText(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/I_Visit_Date'), tanggal_visit)
-	
-	WebUI.delay(5)
-	
-//  WebUI.click(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/td_28'))
-	
-	WebUI.click(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/textarea_Comment_comment'))
-	
+    WebUI.setText(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/I_Visit_Date'), tanggal_visit)
+
+    //  WebUI.click(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/td_28'))
+    WebUI.click(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/textarea_Comment_comment'))
+
     WebUI.setText(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/textarea_Comment_comment'), 
         comment)
 
@@ -84,6 +84,8 @@ for (int i = 1; i <= testdata.getRowNumbers(); i++) {
 
     WebUI.click(findTestObject('Object Repository/New Make An Appoiment/Page_CURA Healthcare Service/a_Go to Homepage'))
 }
+
+WebUI.callTestCase(findTestCase('Logout/Logout'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 
